@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides readings and related questions for each week of
   the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -283,7 +285,7 @@ Genomics, Medicine, and Race
 
 Wilson, James, Michael E. Weale, Alice C. Smith, Fiona Gratrix, Benjamin Fletcher, Mark G. Thomas, Neil Bradman, and David B. Goldstein. "Population Genetics Structure of Variable Drug Response." _Nature Genetics_ 29, no. 3 (November 2001): 265-268.
 
-Risch Neil, Esteban Burchard, Elad Ziv, and Hua Tang. "{{% resource_link "114b0b71-97e3-4fbf-a61a-80706f2413f5" "Categorization of Humans in Biomedical Research: Genes, Race, and Disease" %}}." _Genome Biology_ 3, no. 7 (July 1, 2002): 1-12.
+Risch Neil, Esteban Burchard, Elad Ziv, and Hua Tang. "[Categorization of Humans in Biomedical Research: Genes, Race, and Disease](http://genomebiology.com/2002/3/7/comment/2007)." _Genome Biology_ 3, no. 7 (July 1, 2002): 1-12.
 
 Phimister, and Elizabeth. "Medicine and the Racial Divide." _New England Journal of Medicine_ 348, no. 12 (March 20, 2003): 1081-1082.
 
@@ -291,7 +293,7 @@ Cooper, Richard S., J. S. Kaufman, and R. Ward. "Race and Genomics." _New Englan
 
 Burchard, Esteban Gonzalez, Elad Ziv, Natasha Coyle, Scarlett Lin Gomez, et al. "The Importance of Race and Ethnic and Ethnic Background in Biomedical Research and Clinical Practice." _New England Journal of Medicine_ 348, no. 12 (March 20, 2003): 1170-1175.
 
-Bamhad, Michael J., and Steve E. Olson. "{{% resource_link "73cea2f0-39ba-446b-af9a-ac9a07efb0b1" "Does Race Exist? Human Genetic Diversity" %}}." _Scientific American_ 289, no. 6 (December 2003): 78-85.
+Bamhad, Michael J., and Steve E. Olson. "[Does Race Exist? Human Genetic Diversity](https://www.scientificamerican.com/article/does-race-exist/)." _Scientific American_ 289, no. 6 (December 2003): 78-85.
 
 
 {{< tdclose >}}
@@ -318,7 +320,7 @@ Genomics, Race, and Health Policy
 
 Stevens, Jacqueline. "Racial Meanings and Scientific Methods: Changing Policies for NIH-Sponsored Publications Reporting Human Variation." _Journal of Health Politics, Policy and Law_ 28, no. 6 (December 2003): 1033-1098.
 
-Lee, Sandra Soo-Jin, Joanna Mountain, and Barbara A. Koenig. "The meanings of 'Race' in the New Genomics: Implications for Health Disparities Research." {{% resource_link "f27a3d32-97fa-4f5d-afec-6b2229fe3b29" "_Yale Journal of Health Policy, Law and Ethics_" %}} 1 (Spring 2001): 33-75.
+Lee, Sandra Soo-Jin, Joanna Mountain, and Barbara A. Koenig. "The meanings of 'Race' in the New Genomics: Implications for Health Disparities Research." [_Yale Journal of Health Policy, Law and Ethics_](http://www.yale.edu/yjhple/) 1 (Spring 2001): 33-75.
 
 
 {{< tdclose >}}
